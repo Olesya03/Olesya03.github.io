@@ -1,0 +1,80 @@
+.background {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background:url(https://myplanet-ua.com/wp-content/uploads/2018/03/Amphipion.jpg) no-repeat;
+    background-size: cover;
+}
+.left_col {
+    display: flex;
+    flex-direction: column;
+    width: 27%;
+    padding-left: 30;
+    color: #000000;
+
+
+}
+.greeting {
+font-size: 430%;
+font-family: Times New Roman, Helvetica, sans-serif;
+text-align: center;
+}
+.wiki {
+    font-size: 120%;
+    font-family: Times New Roman, Helvetica, sans-serif;
+    padding-top: 20;
+    }
+.right_col {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding-right: 30;
+    align-items:end;
+    color: #000000;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    font-size: 300%;
+    font-family: Times New Roman, Helvetica, sans-serif;
+margin-top: 70;
+}
+.three {
+    display: flex;
+    flex-direction: column;
+    font-size: 450%;
+    font-family: Times New Roman, Helvetica, sans-serif;
+    margin-top: 70;
+    text-align: right;
+    width: 70%;
+}
+.background_billy {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 140%;
+    background:url(https://tenor.com/ru/view/ae-gif-19485742) no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+}
+.right_col_billy {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding-right: 30;
+    align-items:end;
+}
+.right_col_steve {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-right: 30;
+    align-items:end;
+    justify-content: center;
+}
+.wiki_van {
+    font-size: 120%;
+    font-family: Times New Roman, Helvetica, sans-serif;
+    padding-top: 200;
+    }
